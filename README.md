@@ -2,43 +2,42 @@
 
 In this project, I explored various levels of authentication and security measures, building up to OAuth. Here are the key concepts covered:
 
-Basic Authentication (Email and Password)
+1.**Basic Authentication (Email and Password)
+    The simplest form of authentication.
+    Implementation details: storing passwords securely.
 
-The simplest form of authentication.
-Implementation details: storing passwords securely.
-Encryption and Hashing
+2.**Encryption and Hashing
+    Understanding the differences between encryption and hashing.
+    Implementation of secure password hashing algorithms.
 
-Understanding the differences between encryption and hashing.
-Implementation of secure password hashing algorithms.
-Salting Passwords
+3.**Salting Passwords
+    Adding salt to passwords for improved encryption.
+    Preventing rainbow table attacks.
 
-Adding salt to passwords for improved encryption.
-Preventing rainbow table attacks.
-Cookies and Sessions Management
+4.**Cookies and Sessions Management
+    Using cookies to store session information securely.
+    Best practices for session management.
 
-Using cookies to store session information securely.
-Best practices for session management.
-Environment Variables
+5.**Environment Variables
+    Securely managing sensitive information using environment variables.
+    Avoiding hardcoding secrets in the source code.
 
-Securely managing sensitive information using environment variables.
-Avoiding hardcoding secrets in the source code.
-Google OAuth Credentials Setup
+6.**Google OAuth Credentials Setup
+    Setting up Google OAuth credentials for authentication.
+    Configuring the OAuth consent screen.
 
-Setting up Google OAuth credentials for authentication.
-Configuring the OAuth consent screen.
-Implementing "Sign In with Google"
+7.**Implementing "Sign In with Google"
+    Integrating Google Sign-In into the application.
+    Handling OAuth tokens and user sessions.
 
-Integrating Google Sign-In into the application.
-Handling OAuth tokens and user sessions.
+## 📦 Dependencies
+This project relies on the following dependencies:
 
-Dependencies:
-body-parser
-ejs
-express
-pg
+- `body-parser`
+- `ejs`
+- `express`
+- `pg`
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
 Irene - iav2020@hotmail.com
