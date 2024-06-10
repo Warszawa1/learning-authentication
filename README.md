@@ -40,7 +40,7 @@ This project relies on the following dependencies:
 
 
 📧 Contact
-Irene - iav2020@hotmail.com
+me - iav2020@hotmail.com
 
 Project Link: https://github.com/warszawa1/learning-authentication
 
